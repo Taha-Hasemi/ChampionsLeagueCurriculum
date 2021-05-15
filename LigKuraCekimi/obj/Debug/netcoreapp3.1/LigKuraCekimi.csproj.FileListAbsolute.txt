@@ -1,0 +1,15 @@
+C:\Users\RTC9911\source\repos\LigKuraCekimi\LigKuraCekimi\bin\Debug\netcoreapp3.1\LigKuraCekimi.exe
+C:\Users\RTC9911\source\repos\LigKuraCekimi\LigKuraCekimi\bin\Debug\netcoreapp3.1\LigKuraCekimi.deps.json
+C:\Users\RTC9911\source\repos\LigKuraCekimi\LigKuraCekimi\bin\Debug\netcoreapp3.1\LigKuraCekimi.runtimeconfig.json
+C:\Users\RTC9911\source\repos\LigKuraCekimi\LigKuraCekimi\bin\Debug\netcoreapp3.1\LigKuraCekimi.runtimeconfig.dev.json
+C:\Users\RTC9911\source\repos\LigKuraCekimi\LigKuraCekimi\bin\Debug\netcoreapp3.1\LigKuraCekimi.dll
+C:\Users\RTC9911\source\repos\LigKuraCekimi\LigKuraCekimi\bin\Debug\netcoreapp3.1\LigKuraCekimi.pdb
+C:\Users\RTC9911\source\repos\LigKuraCekimi\LigKuraCekimi\obj\Debug\netcoreapp3.1\LigKuraCekimi.csprojAssemblyReference.cache
+C:\Users\RTC9911\source\repos\LigKuraCekimi\LigKuraCekimi\obj\Debug\netcoreapp3.1\LigKuraCekimi.Form1.resources
+C:\Users\RTC9911\source\repos\LigKuraCekimi\LigKuraCekimi\obj\Debug\netcoreapp3.1\LigKuraCekimi.csproj.GenerateResource.cache
+C:\Users\RTC9911\source\repos\LigKuraCekimi\LigKuraCekimi\obj\Debug\netcoreapp3.1\LigKuraCekimi.AssemblyInfoInputs.cache
+C:\Users\RTC9911\source\repos\LigKuraCekimi\LigKuraCekimi\obj\Debug\netcoreapp3.1\LigKuraCekimi.AssemblyInfo.cs
+C:\Users\RTC9911\source\repos\LigKuraCekimi\LigKuraCekimi\obj\Debug\netcoreapp3.1\LigKuraCekimi.csproj.CoreCompileInputs.cache
+C:\Users\RTC9911\source\repos\LigKuraCekimi\LigKuraCekimi\obj\Debug\netcoreapp3.1\LigKuraCekimi.dll
+C:\Users\RTC9911\source\repos\LigKuraCekimi\LigKuraCekimi\obj\Debug\netcoreapp3.1\LigKuraCekimi.pdb
+C:\Users\RTC9911\source\repos\LigKuraCekimi\LigKuraCekimi\obj\Debug\netcoreapp3.1\LigKuraCekimi.genruntimeconfig.cache
